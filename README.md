@@ -1,2 +1,3 @@
-# git-github
-asdfgh
+# git-gitub
+this is my first git hub repo
+
